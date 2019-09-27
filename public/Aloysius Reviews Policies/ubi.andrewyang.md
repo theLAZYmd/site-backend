@@ -32,6 +32,21 @@
 ### Neutral (negative)
 - The inflation argument (shoe/leather, menu, bureacracy)
 
+### Compare to
+- Unemployment benefits systems
+- Child benefit
+- Pensions
+
+### Case studies
+- Alaska Permanent Fund
+- Manitoba, Canada
+- India trials
+- Finnish 2-year trial
+- Utrecht, Netherlands
+
+### Conclusion
+- If inflation argument is true then it is damning. The argument on improper incentives is also strong if true. Analyse case studies. Otherwise, assuming that inflation shall not occur and incentives are properly maintained, the programs has an extremely large number of positives that outweight the inefficiency argument.
+
 ### Resources
 - https://web.stanford.edu/~chadj/JonesHandbook2005.pdf
 - https://www.payscale.com/cost-of-living-calculator/California-Los-Angeles
