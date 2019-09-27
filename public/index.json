@@ -1,5 +1,14 @@
 {
-	"Aloysius Reviews Policies": [
-		"ubi.andrewyang"
-	]
+	"keys": {
+		"ARP": "Aloysius Reviews Policies"
+	},
+	"articles": {
+		"ARP": [
+			{
+				"id": "ubi.andrewyang",
+				"name": "Andrew Yang's *Universal Basic Income*",
+				"dateCreated": "27th June 2019"
+			}
+		]
+	}
 }
