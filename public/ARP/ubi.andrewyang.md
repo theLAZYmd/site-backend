@@ -1,4 +1,4 @@
-# Universal Basic Income - Andrew Yang
+With the advent of the 2020 election, it worth taking a look at the rarely-seen, oft-pined for, idealist policy of *Universal Basic Income*. The policy reemerges as a staple of the campaign by Democrat presidential candidate Andrew Yang. 
 
 ### Definition
 - Periodic cash payment unconditionally delivered to all citizens of the US; $1,000 every month
