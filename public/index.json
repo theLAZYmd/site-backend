@@ -1,6 +1,7 @@
 {
 	"keys": {
-		"ARP": "Aloysius Reviews Policies"
+		"ARP": "Aloysius Reviews Policies",
+		"FA": "Film Analysis"
 	},
 	"articles": {
 		"ARP": [
@@ -8,6 +9,13 @@
 				"id": "ubi.andrewyang",
 				"name": "Andrew Yang's *Universal Basic Income*",
 				"dateCreated": "27 June 2019"
+			}
+		],
+		"FA": [
+			{
+				"id": "action.johnwick",
+				"name": "Crafting Action Locations: *John Wick - Parabellum* vs *London Has Fallen*",
+				"dateCreated": "28 June 2019"
 			}
 		]
 	}
