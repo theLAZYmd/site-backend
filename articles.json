@@ -6,16 +6,22 @@
 	"articles": {
 		"ARP": [
 			{
+				"id": "ubi.uk",
+				"name": "Call it 'the gift of leaving': the case for UBI in the UK",
+				"subtitle": "Part 1 out of 4 on a series on Universal Basic Income",
+				"dateCreated": "6 September 2019"
+			},
+			{
 				"id": "ubi.andrewyang",
 				"name": "Andrew Yang's *Universal Basic Income*",
-				"dateCreated": "27 June 2019"
+				"dateCreated": "27 August 2019"
 			}
 		],
 		"FA": [
 			{
 				"id": "action.johnwick",
 				"name": "Crafting Action Locations: *John Wick - Parabellum* vs *London Has Fallen*",
-				"dateCreated": "28 June 2019"
+				"dateCreated": "28 August 2019"
 			}
 		]
 	}

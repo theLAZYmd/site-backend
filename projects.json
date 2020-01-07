@@ -61,6 +61,25 @@
 			"colour": "#2e2400"
 		},
 		{
+			"id": "oucc",
+			"dependencies": [
+				"reactjs"
+			],
+			"status": {
+				"Project created": "25 October 2019",
+				"Public deployment": "27 October 2019"
+			},
+			"title": "Oxford University Chess Club",
+			"description": "The official website for the Oxford University Chess Club, rewritten in React such that members can easily collaborate and update its information",
+			"website": "http://users.ox.ac.uk/~chess/",
+			"github-frontend": "https://github.com/oxfordunichess/oucc-frontend",
+			"github-backend": "https://github.com/oxfordunichess/oucc-backend",
+			"style": {
+				"backgroundColor": "#002147"
+			},
+			"colour": "#ff2200"
+		},
+		{
 			"id": "site",
 			"dependencies": [
 				"reactjs"
@@ -73,7 +92,6 @@
 			"description": "My personal website, an opportunity to experiment with front-end technologies",
 			"website": "https://aloysiuslip.github.io",
 			"github": "https://github.com/aloysiuslip/aloysiuslip.github.io",
-			"image": "chch.jpg",
 			"style": {
 				"backgroundSize": "80%",
 				"backgroundColor": "#8e1303"
