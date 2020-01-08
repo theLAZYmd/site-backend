@@ -63,33 +63,32 @@
 		{
 			"id": "oxfordhack.2019",
 			"dependencies": [
-				"oxfordhack"
+				"oxfordhack2019"
 			],
 			"status": {
-				"Project run": "24 November 2018",
-				"Project finished": "25 November 2018"
+				"Project run": "16 November 2019",
+				"Project finished": "17 November 2018"
 			},
-			"title": "**OXFORD**HACK 2018",
-			"description": "Over the course of 24 hours, I led a team to build an app which transcribed live and archival data from the House of Commons for a mobile viewer.",
+			"title": "**OXFORD**HACK 2019",
+			"description": "Reinforcement learning browser game which trains bots to learn off that data.",
 			"thumbs": [
 				{
-					"type": "github",
-					"href": "https://github.com/theLAZYmd/ParliaMate"
+					"type": "website",
+					"href": "https://peckwater-technologies.github.io/enders-game/"
 				},
 				{
 					"type": "github",
-					"href": "https://github.com/theLAZYmd/ParliaMateBackend"
+					"href": "https://github.com/Peckwater-Technologies/enders-game"
 				},
 				{
 					"type": "devpost",
-					"href": "https://devpost.com/software/parliamate"
+					"href": "https://devpost.com/software/ender-s-compute"
 				}
 			],
-			"image": "parliamate.jpg",
-			"colour": "#002147",
+			"image": "oxhack2019.jpg",
+			"colour": "#803760",
 			"style": {
-				"backgroundPosition": "-35px",
-				"backgroundColor": "#36845a"
+				"backgroundColor": "#608037"
 			}
 		}
 	],
