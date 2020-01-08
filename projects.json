@@ -118,6 +118,7 @@
 					"href": "https://github.com/oxfordunichess/oucc-backend"
 				}
 			],
+			"image": "oucc.jpg",
 			"style": {
 				"backgroundColor": "#002147"
 			},
@@ -134,6 +135,7 @@
 			},
 			"title": "aloysiuslip.com",
 			"description": "My personal website, an opportunity to experiment with front-end technologies",
+			"image": "chch.jpg",
 			"thumbs": [
 				{
 					"type": "website",
