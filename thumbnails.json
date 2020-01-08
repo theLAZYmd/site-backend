@@ -1,0 +1,48 @@
+{
+    "bot": {
+        "alt": "bot_thumbnail",
+        "uri": null,
+        "src": "bot.png"
+    },
+    "discordjs": {
+        "alt": "discord.js",
+        "uri": "https://discord.js.org/",
+        "src": "djs.png"
+    },
+    "reactjs": {
+        "alt": "react.js",
+        "uri": "https://reactjs.org",
+        "src": "reactjs.png"
+    },
+    "oxfordhack2018": {
+        "alt": "OxfordHack 2018",
+        "uri": "https://oxford-hack.devpost.com/submissions",
+        "src": "oh2018.png",
+        "style": {
+            "filter": "invert(1.0) hue-rotate(180deg)"
+        }
+    },
+    "oxfordhack2019": {
+        "alt": "OxfordHack 2019",
+        "uri": "https://devpost.com/software/ender-s-compute",
+        "src": "oh2019.png"
+    },
+    "hackmit": {
+        "alt": "HackMIT 2019",
+        "uri": "https://hackmit.org/",
+        "src": "hackmit.png"
+    },
+    "lichess": {
+        "alt": "Lichess.org",
+        "uri": "https://lichess.org/api",
+        "src": "lichess.png"
+    },
+    "ecf": {
+        "alt": "English Chess Federation",
+        "uri": "http://ecfgrading.org.uk/new/menu.php",
+        "src": "ecf.png",
+        "style": {
+            "filter": "invert(1.0) hue-rotate(180deg)"
+        }
+    }
+}
