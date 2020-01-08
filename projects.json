@@ -30,7 +30,8 @@
 			"style": {
 				"backgroundPosition": "-35px",
 				"backgroundColor": "#36845a"
-			}
+			},
+			"team": 4
 		},
 		{
 			"id": "hackmit.2019",
@@ -58,7 +59,8 @@
 				}
 			],
 			"image": "goodness.jpg",
-			"colour": "#17abdf"
+			"colour": "#17abdf",
+			"team": 3
 		},
 		{
 			"id": "oxfordhack.2019",
@@ -89,7 +91,8 @@
 			"colour": "#803760",
 			"style": {
 				"backgroundColor": "#608037"
-			}
+			},
+			"team": 4
 		}
 	],
 	"Personal Projects": [
