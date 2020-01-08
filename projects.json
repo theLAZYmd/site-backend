@@ -125,6 +125,45 @@
 			"colour": "#2e2400"
 		},
 		{
+			"id": "toastie",
+			"dependencies": [
+				"reactjs",
+				"react-native",
+				"electronjs"
+			],
+			"status": {
+				"Project created": "3 December 2019",
+				"First backend release": "7 December 2019",
+				"Stable desktop release": "24 December 2019",
+				"status": "Creating mobile app"
+			},
+			"title": "Tournament by Oxford Chess Development",
+			"description": "Up and coming software for organising tournaments (such a chess, tennis, bridge, go) that aims to bring scalability and moernisation",
+			"thumbs": [
+				{
+					"type": "website",
+					"href": "https://oxford-chess-development.github.io/toastie-desktop/"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/Oxford-Chess-Development/toastie-desktop"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/Oxford-Chess-Development/toastie-backend"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/Oxford-Chess-Development/toastie-mobile"
+				}
+			],
+			"image": "toastie.jpg",
+			"style": {
+				"backgroundColor": "#111111"
+			},
+			"colour": "##1e2c00"
+		},
+		{
 			"id": "oucc",
 			"dependencies": [
 				"reactjs"
@@ -210,6 +249,27 @@
 		}
 	],
 	"Open Source Projects": [
+		{
+			"id": "election",
+			"status": {
+				"Project created": "16 December 2019",
+				"Published": "3 January"
+			},
+			"title": "Election",
+			"description": "A fully-fledged API to run an election in Node.JS with IRV, STV, and FPTP support",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/election"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/election-js"
+				}
+			],
+			"image": "election.jpg",
+			"colour": "#2c2400"
+		},
 		{
 			"id": "lichess",
 			"dependencies": [
