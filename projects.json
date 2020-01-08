@@ -11,9 +11,20 @@
 			},
 			"title": "**OXFORD**HACK 2018",
 			"description": "Over the course of 24 hours, I led a team to build an app which transcribed live and archival data from the House of Commons for a mobile viewer.",
-			"github_frontend": "https://github.com/theLAZYmd/ParliaMate",
-			"github_backend": "https://github.com/theLAZYmd/ParliaMateBackend",
-			"devpost": "https://devpost.com/software/parliamate",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/ParliaMate"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/ParliaMateBackend"
+				},
+				{
+					"type": "devpost",
+					"href": "https://devpost.com/software/parliamate"
+				}
+			],
 			"image": "parliamate.jpg",
 			"colour": "#002147",
 			"style": {
@@ -32,9 +43,20 @@
 			},
 			"title": "Hack**MIT** 2019",
 			"description": "Of a choice of 6 ideas I drew up, we built a app for the 'Social Goodness' category that sought to quantify an individual's contribution to others and the environment.",
-			"github_frontend": "https://github.com/coisin/goodness-frontend",
-			"github_backend": "https://github.com/johnryan465/goodness-backend",
-			"devpost": "https://devpost.com/software/goodness",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/coisin/goodness-frontend"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/johnryan465/goodness-backend"
+				},
+				{
+					"type": "devpost",
+					"href": "https://devpost.com/software/goodness"
+				}
+			],
 			"image": "goodness.jpg",
 			"colour": "#17abdf"
 		}
@@ -54,9 +76,20 @@
 			},
 			"title": "**LAZY**bot",
 			"description": "A discord bot perfected for chess servers",
-			"website": "https://www.LAZYbot.co.uk/",
-			"github": "https://github.com/theLAZYmd/LAZYbot",
-			"npm": "https://www.npmjs.com/package/LAZYbot",
+			"thumbs": [
+				{
+					"type": "website",
+					"href": "https://www.LAZYbot.co.uk/"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/LAZYbot"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/LAZYbot"
+				}
+			],
 			"image": "gondor-venice-wallpaper.jpg",
 			"colour": "#2e2400"
 		},
@@ -71,9 +104,20 @@
 			},
 			"title": "Oxford University Chess Club",
 			"description": "The official website for the Oxford University Chess Club, rewritten in React such that members can easily collaborate and update its information",
-			"website": "http://users.ox.ac.uk/~chess/",
-			"github-frontend": "https://github.com/oxfordunichess/oucc-frontend",
-			"github-backend": "https://github.com/oxfordunichess/oucc-backend",
+			"thumbs": [
+				{
+					"type": "website",
+					"href": "http://users.ox.ac.uk/~chess/"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/oxfordunichess/oucc-frontend"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/oxfordunichess/oucc-backend"
+				}
+			],
 			"style": {
 				"backgroundColor": "#002147"
 			},
@@ -90,8 +134,16 @@
 			},
 			"title": "aloysiuslip.com",
 			"description": "My personal website, an opportunity to experiment with front-end technologies",
-			"website": "https://aloysiuslip.github.io",
-			"github": "https://github.com/aloysiuslip/aloysiuslip.github.io",
+			"thumbs": [
+				{
+					"type": "website",
+					"href": "https://aloysiuslip.github.io"
+				},
+				{
+					"type": "github",
+					"href": "https://github.com/aloysiuslip/aloysiuslip.github.io"
+				}
+			],
 			"style": {
 				"backgroundSize": "80%",
 				"backgroundColor": "#8e1303"
@@ -110,7 +162,12 @@
 			},
 			"title": "**LAZY**mail",
 			"description": "Intuitive mod-mail features for Discord inspired by new Reddit mod-mail",
-			"github": "https://github.com/theLAZYmd/csv-json",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/csv-json"
+				}
+			],
 			"image": "modmail.jpg",
 			"colour": "#ff7716",
 			"style": {
@@ -132,8 +189,16 @@
 			},
 			"title": "**lichess** for JS",
 			"description": "The predominant JavaScript wrapper for the lichess API",
-			"github": "https://github.com/theLAZYmd/lichess-js",
-			"npm": "https://www.npmjs.com/package/lichess",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/lichess-js"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/lichess"
+				}
+			],
 			"image": "lazy-lila.jpg",
 			"colour": "#719f3f"
 		},
@@ -148,8 +213,16 @@
 			},
 			"title": "**ECF** for JS",
 			"description": "The Node.JS API for the ECF chess grading database to make gradings human-readable and queryable",
-			"github": "https://github.com/theLAZYmd/ECF",
-			"npm": "https://www.npmjs.com/package/ecf",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/ECF"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/ecf"
+				}
+			],
 			"image": "ecf.jpg",
 			"colour": "#3e3f8f"
 		},
@@ -161,8 +234,16 @@
 			},
 			"title": "aho-corasick",
 			"description": "Extremely fast, extremely powerful, ES6 implementation of the Aho-Corasick string-matching algorithm with high user-customisability",
-			"github": "https://github.com/theLAZYmd/aho-corasick",
-			"npm": "https://www.npmjs.com/package/lazy-aho-corasick",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/aho-corasick"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/lazy-aho-corasick"
+				}
+			],
 			"image": "aho-corasick-2.jpg",
 			"colour": "#4b787e"
 		},
@@ -174,8 +255,16 @@
 			},
 			"title": "select-prop",
 			"description": "A powerful and light-weight selector for instantly cutting to the heart of big, nested data to find all useful properties. Takes a simple string query parameter and fetches all possible matching nested values of an object.",
-			"github": "https://github.com/theLAZYmd/select-prop",
-			"npm": "https://www.npmjs.com/package/select-prop",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "ttps://github.com/theLAZYmd/select-prop"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/select-prop"
+				}
+			],
 			"image": "select-prop.jpg",
 			"colour": "#846eff"
 		},
@@ -187,8 +276,16 @@
 			},
 			"title": "get-param-names",
 			"description": "A unique library that takes a JavaScript function and returns its input parameter 'names'. Tested to work with even destructured params and params with default values",
-			"github": "https://github.com/theLAZYmd/get-param-names",
-			"npm": "https://www.npmjs.com/package/get-param-names",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/get-param-names"
+				},
+				{
+					"type": "npm",
+					"href": "https://www.npmjs.com/package/get-param-names"
+				}
+			],
 			"image": "get-param-names.jpg",
 			"colour": "#91475a"
 		},		
@@ -200,7 +297,12 @@
 			},
 			"title": "midi-encoder",
 			"description": "Simple CLI to convert musical notes into their ASCII values, for cryptanalysis purposes",
-			"github": "https://github.com/theLAZYmd/midi_encoder",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/midi_encoder"
+				}
+			],
 			"image": "midi.jpg",
 			"colour": "#6b5542"
 		},
@@ -212,7 +314,12 @@
 			},
 			"title": "csv-json",
 			"description": "User-focused CSV parser to JavaScript object using JSON 3 syntax",
-			"github": "https://github.com/theLAZYmd/csv-json",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/csv-json"
+				}
+			],
 			"image": "csv-json.jpg",
 			"colour": "#4da9c2"
 		}
@@ -225,7 +332,12 @@
 			},
 			"title": "HackerRank",
 			"description": "Solutions written to 'HackerRank' challenges",
-			"github": "https://github.com/theLAZYmd/challenges",
+			"thumbs": [
+				{
+					"type": "github",
+					"href": "https://github.com/theLAZYmd/challenges"
+				}
+			],
 			"image": "hackerrank.jpg",
 			"colour": "#be2d8b"
 		}
