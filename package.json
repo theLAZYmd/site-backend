@@ -1,6 +1,6 @@
 {
   "name": "site-backend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The backend for https://aloysiuslip.com",
   "main": "index.js",
   "scripts": {
