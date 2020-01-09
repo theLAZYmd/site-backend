@@ -305,7 +305,8 @@
 			],
 			"status": {
 				"Project created": "15 August 2019",
-				"Project finished and published": "16 August 2019"
+				"Project finished and published": "16 August 2019",
+				"Added typings": "9 January 2020"
 			},
 			"title": "**ECF** for JS",
 			"description": "The Node.JS API for the ECF chess grading database to make gradings human-readable and queryable",
@@ -326,7 +327,8 @@
 			"id": "aho-corasick",
 			"status": {
 				"Project created": "20 March 2019",
-				"Project finished and published": "22 March 2019"
+				"Project finished and published": "22 March 2019",
+				"Added typings": "9 January 2020"
 			},
 			"title": "aho-corasick",
 			"description": "Extremely fast, extremely powerful, ES6 implementation of the Aho-Corasick string-matching algorithm with high user-customisability",
