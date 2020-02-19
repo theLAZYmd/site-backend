@@ -18,4 +18,4 @@ Finally, scalpers are careless consumers in themselves. Understanding this patte
 
 In other words, scalpers have particular preference properties that are desirable to vendors seeking to minimise risk. More of this risk-minimising behaviour is observed in the explicit contracts that vendors make with 'entz' reps of colleges or 'early-bird' discounts on ticket sales. Nevertheless, ticket scalpers prove to be an interesting case in the Oxford club market and one that is surely here to stay. ∎
 
-### For more on behavioural economics, read Thaler (2017), *Misbehaving*.
+### For more on behavioural economics, read Thaler (2017), *Misbehaving*
