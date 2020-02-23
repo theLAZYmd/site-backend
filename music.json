@@ -5,7 +5,8 @@
 		"Location": "Christ Church, Oxford",
 		"date": "15th February, 2020",
 		"instrument": "piano",
-		"url": "https://www.youtube.com/watch?v=KuUjcEnqDr4"
+		"url": "https://www.youtube.com/watch?v=KuUjcEnqDr4",
+		"ratio": 2.76
 	},
 	{
 		"title": "Debussy's 2 Arabesques",
@@ -13,7 +14,7 @@
 		"date": "18 December, 2019",
 		"instrument": "piano",
 		"url": "https://www.youtube.com/watch?v=iA4Oss25enQ"
-	}
+	},
 	{
 		"title": "Debussy's Children Corner: Doctor Gradus ad Parnassum",
 		"location": "Birmingham",
