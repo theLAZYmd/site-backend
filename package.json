@@ -1,22 +1,23 @@
 {
-  "name": "site-backend",
-  "version": "1.0.2",
-  "description": "The backend for https://aloysiuslip.com",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@ssh.github.com:theLAZYmd/site-backend.git"
-  },
-  "keywords": [
-    "restful",
-    "api",
-    "personal",
-    "website"
-  ],
-  "author": "theLAZYmd",
-  "license": "MIT",
-  "private": false
+	"name": "site-backend",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@ssh.github.com:theLAZYmd/site-backend.git"
+	},
+	"keywords": [
+		"restful",
+		"api",
+		"personal",
+		"website"
+	],
+	"author": "theLAZYmd",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"express": "^4.17.1"
+	}
 }
