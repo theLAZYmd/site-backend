@@ -1,4 +1,5 @@
-![Picture of Oxford club-goers partying](https://thelazymd.github.io/site-backend/articles/images/clubnight.jpg)
+![The ever-long queue to The Bridge, Oxford](https://thelazymd.github.io/site-backend/articles/images/bridge.JPG)
+*The ever-long queue to The Bridge, Oxford*
 
 There are few more hated in the online world of Oxford University than ticket scalpers. Hustlers who purchase tickets for Oxford's most popular clubs and resell them on for exorbitant prices, usually a first week Bridge Thursday or some visiting DJ to the Bullingdon Club, are treated with the same disdain as union hacks and students on Facebook who invite their entire friend lists to plays. The question arises, therefore, why the original vendors of tickets, the clubs themselves, don't put a stop to this behaviour. The answer reveals three curious aspects of microeconomics: market efficiency, the principal-agent problem, and behavioural economics.
 
