@@ -7,6 +7,12 @@
 	"articles": {
 		"UES": [
 			{
+				"id": "undercover.magic",
+				"name": "Magic is Might is Right",
+				"subtitle": "What fantasy can teach us about international relations",
+				"dateCreated": "5 March 2020"
+			},
+			{
 				"id": "undercover.oxtickets",
 				"name": "Invest now, Party Later, Spend Never",
 				"subtitle": "Behavioural economics says nightclubs won't ever curb ticket resales",
