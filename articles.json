@@ -17,6 +17,12 @@
 				"name": "Invest now, Party Later, Spend Never",
 				"subtitle": "Behavioural economics says nightclubs won't ever curb ticket resales",
 				"dateCreated": "19 February 2020"
+			},
+			{
+				"id": "ubi.uk",
+				"name": "Call it 'the gift of leaving'",
+				"subtitle": "Universal Basic Income is not just be a sensible policy, but the saviour to the Conservative party's current political crisis",
+				"dateCreated": "6 September 2019"
 			}
 		],
 		"FA": [
@@ -25,14 +31,6 @@
 				"name": "Crafting Action Locations",
 				"subtitle": "*John Wick - Parabellum* vs *London Has Fallen*",
 				"dateCreated": "28 August 2019"
-			}
-		],
-		"ARP": [
-			{
-				"id": "ubi.uk",
-				"name": "Call it 'the gift of leaving': the case for UBI in the UK",
-				"subtitle": "Part 1 out of 4 on a series on Universal Basic Income",
-				"dateCreated": "6 September 2019"
 			}
 		]
 	}
