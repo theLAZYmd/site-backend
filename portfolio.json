@@ -1,5 +1,93 @@
 [
 	{
+		"date": "May 2020",
+		"id": "8.logos",
+		"title": "'Can you design a logo for me?'",
+		"subtitle": "VARIOUS - 2019-20",
+		"body": "I am often approached by friends and acquaintances who are in need of a logo for their start-up ideas or organisations. Below is a series of sketched out design ideas for each, with the selected design shown first in each case. The first was for a short-lived dating app called 'Wave'. The second is for an upcoming EduTech start-up called 'etudi'. The last is for an online chess tournament called the '2020 chess' and is included with some designs for ScorchChess.",
+		"galleries": [
+			{
+				"type": "grid",
+				"ratio": [4, 3],
+				"paths": [
+					"IMG_0282.PNG",
+					"wave-hearts.gif",
+					"plain-background.jpg",
+					"second-cover.png"
+				],
+				"ratios": [
+					null,
+					[2000, 1124],
+					[2000, 1124],
+					[2000, 1124]
+				]
+			},
+			{
+				"type": "grid",
+				"ratio": [4, 3],
+				"height": 100,
+				"style": {
+					"paddingTop": 0
+				},
+				"paths": [					
+					"IMG_0262.PNG",
+					"IMG_0263.PNG",
+					"IMG_0264.PNG",
+					"IMG_0265.PNG",
+					"IMG_0266.PNG",
+					"IMG_0267.PNG",
+					"IMG_0268.PNG",
+					"IMG_0269.PNG",
+					"IMG_0271.PNG",
+					"IMG_0272.PNG",
+					"IMG_0273.PNG",
+					"IMG_0274.PNG",
+					"IMG_0276.PNG",
+					"IMG_0277.PNG",
+					"IMG_0278.PNG",
+					"IMG_0279.PNG",
+					"IMG_0280.PNG",
+					"IMG_0281.PNG"
+				]
+			},
+			{
+				"type": "grid",
+				"ratio": [4, 3],
+				"height": 120,
+				"paths": [
+					"final.png",
+					"square.png",
+					"b&wletters.png",
+					"eraser.png",
+					"IMG_0285.PNG",
+					"IMG_0288.PNG",
+					"IMG_0289.PNG",
+					"IMG_0292.PNG",
+					"lecturn.png"
+				],
+				"ratios": [
+					[1, 1],
+					[914, 822]
+				]
+			},
+			{
+				"type": "grid",
+				"height": 150,
+				"ratio": [1, 1],
+				"paths": [
+					"2020.png",
+					"scorch.png",
+					"scorch-cover.jpg"
+				],
+				"ratios": [
+					[1, 1],
+					[1652, 1784],
+					[1000, 563]
+				]
+			}
+		]
+	},
+	{
 		"date": "May 2017",
 		"id": "7.oucc",
 		"title": "'The many pieces in play'",
