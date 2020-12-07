@@ -10,14 +10,20 @@
 			"status": {
 				"Project created": "3 December 2019",
 				"First backend release": "7 December 2019",
-				"Stable desktop release": "24 December 2019"
+				"Stable desktop release": "24 December 2019",
+				"Launched": "7 March 2020",
+				"Award received": "3 September 2020"
 			},
 			"title": "ScorchChess",
-			"description": "A modern platform for organisers of chess tournaments. A web-app, desktop, and mobile app that automates and modernises the process of organising tournaments to making things easy for organisers.",
+			"description": "Award-wanning software, as recognised by the English Chess Federation, for organising chess tournaments. A web-app, desktop, and mobile app that automates and modernises and personalises the process of organising tournaments to make the experience effortless.",
 			"thumbs": [
 				{
 					"type": "website",
 					"href": "https://scorchapp.co.uk"
+				},
+				{
+					"type": "ecf",
+					"href": "https://www.englishchess.org.uk/ecf-awards-2020-citations/"
 				},
 				{
 					"type": "website",
@@ -30,7 +36,7 @@
 			],
 			"image": "scorch.jpg",
 			"style": {
-				"backgroundColor": "#111111"
+				"backgroundColor": "#c8e1e3"
 			},
 			"colour": "#1e2c00"
 		},
