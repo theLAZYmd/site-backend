@@ -36,9 +36,9 @@
 			],
 			"image": "scorch.jpg",
 			"style": {
-				"backgroundColor": "#c8e1e3"
+				"backgroundColor": "#111111"
 			},
-			"colour": "#1e2c00"
+			"colour": "##c8e1e3"
 		},
 		{
 			"id": "LAZYbot",
