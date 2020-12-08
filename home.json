@@ -1,7 +1,7 @@
 [
 	{
-		"title": "ScorchChess, award-winning tournament software",
-		"description": "Aloysius is the founder and lead developer on ScorchChes, the premier software for tournament organisers that provide the most effortless experience to organisers online or in-person. It uses the latest web technologies and boasts unique data-syncing and algorithmic solutions for customising any tournament. It was recognised by the English Chess Federation in September 2018, receiving the highest award in its field.",
+		"title": "Award-winning tournament software",
+		"description": "Aloysius is the founder and lead developer on ScorchChess, an app for running chess tournaments. It was recognised by the English Chess Federation in September 2018, receiving the highest award in its field.",
 		"img": "ecf.jpeg",
 		"link": "/projects#scorchchess",
 		"button": "PROJECT"
