@@ -1,0 +1,23 @@
+[
+	{
+		"title": "ScorchChess, award-winning tournament software",
+		"description": "Aloysius is the founder and lead developer on ScorchChes, the premier software for tournament organisers that provide the most effortless experience to organisers online or in-person. It uses the latest web technologies and boasts unique data-syncing and algorithmic solutions for customising any tournament. It was recognised by the English Chess Federation in September 2018, receiving the highest award in its field.",
+		"img": "ecf.jpeg",
+		"link": "/projects#scorchchess",
+		"button": "PROJECT"
+	},
+	{
+		"title": "Oxford Hack 2018",
+		"description": "An international coding competition inviting students from pre-University to DPhil. Leader of the team 'ParliaMate', overall competition winners and winners of the 'Deloitte API Prize' and the 'Google Cloud Compute Challenge'",
+		"img": "oxfordhack.jpg",
+		"link": "/projects#oxfordhack.2018",
+		"button": "PROJECT"
+	},
+	{
+		"title": "Invest now, Party Later, Spend Now",
+		"description": "Behavioural economics says nightclubs won't ever curb ticket resales",
+		"img": "bridge.jpg",
+		"link": "/articles/2020/1/19/undercover.oxtickets/invest-now-party-later-spend-never",
+		"button": "LATEST ARTICLE"
+	}
+]
