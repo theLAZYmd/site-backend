@@ -7,17 +7,17 @@
 		"button": "PROJECT"
 	},
 	{
-		"title": "Oxford Hack 2018",
-		"description": "An international coding competition inviting students from pre-University to DPhil. Leader of the team 'ParliaMate', overall competition winners and winners of the 'Deloitte API Prize' and the 'Google Cloud Compute Challenge'",
-		"img": "oxhack.jpg",
-		"link": "/projects#oxfordhack.2018",
-		"button": "PROJECT"
-	},
-	{
 		"title": "Invest now, Party Later, Spend Now",
 		"description": "Behavioural economics says nightclubs won't ever curb ticket resales",
 		"img": "bridge.jpg",
 		"link": "/articles/2020/1/19/undercover.oxtickets/invest-now-party-later-spend-never",
 		"button": "LATEST ARTICLE"
+	},
+	{
+		"title": "Oxford Hack 2018",
+		"description": "An international coding competition inviting students from pre-University to DPhil. Leader of the team 'ParliaMate', overall competition winners and winners of the 'Deloitte API Prize' and the 'Google Cloud Compute Challenge'",
+		"img": "oxhack.jpg",
+		"link": "/projects#oxfordhack.2018",
+		"button": "PROJECT"
 	}
 ]
