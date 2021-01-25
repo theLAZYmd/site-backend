@@ -1,5 +1,12 @@
 [
 	{
+		"title": "Invest now, Party Later, Spend Now",
+		"description": "The imperfect world of Twitch streaming and its fascinating microeconomic",
+		"img": "twitch.jpg",
+		"link": "/articles/2021/1/22/undercover.streaming/",
+		"button": "LATEST ARTICLE"
+	},
+	{
 		"title": "Award-winning tournament software",
 		"description": "Aloysius is the founder and lead developer on ScorchChess, an app for running chess tournaments. It was recognised by the English Chess Federation in September 2018, receiving the highest award in its field.",
 		"img": "ecf.jpeg",
@@ -11,7 +18,7 @@
 		"description": "Behavioural economics says nightclubs won't ever curb ticket resales",
 		"img": "bridge.jpg",
 		"link": "/articles/2020/1/19/undercover.oxtickets/invest-now-party-later-spend-never",
-		"button": "LATEST ARTICLE"
+		"button": "BEHAVIOURAL ECONOMICS ARTICLE"
 	},
 	{
 		"title": "Oxford Hack 2018",
